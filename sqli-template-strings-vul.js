@@ -33,7 +33,7 @@ function run5(db, q, arr) {
 
 function run6(db, q, arr) {
   //return db.query( q, arr);
-  return db.query( q, arr);
+  return db.query(q, arr);
 }
 
 router.post('/login/auth', function (req, res) {
