@@ -1,1 +1,6 @@
-.scannerwork
+.scannerwork/
+.sonar_lock
+report-task.txt
+.scannerwork/report-task.txt
+*.ucfg
+
